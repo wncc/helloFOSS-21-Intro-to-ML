@@ -8,7 +8,7 @@ Change the markdown file for submission of the quiz
 
  - Suppose you are working on weather prediction and use a learning algorithm to predict tomorrow's temperature . What kind of problem would that be? 
    - [ ] Classification
-   - [ ] Regression
+   - [X] Regression
  - Suppose that you have trained a logistic regression classifier, and it outputs on a new example x a prediction hθ​ (x) = 0.4. This means (check all that apply):
    - [ ] Our estimate for P(y = 0| x,θ) = 0.6
    - [ ] Our estimate for P(y = 1| x,θ) = 0.4
