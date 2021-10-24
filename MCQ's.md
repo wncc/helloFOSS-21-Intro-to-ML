@@ -20,7 +20,7 @@ Change the markdown file for submission of the quiz
    - [ ] It prevents the matrix XTX (used in the normal equation) from being non-invertable (singular/degenerate).
    - [ ] It is necessary to prevent gradient descent from getting stuck in local optima.
  - Which of the following statements are true? Check all that apply.
-   - [ ] The cost function J(θ) for logistic regression trained with m≥1 examples is always greater than or equal to zero.
+   - [x] The cost function J(θ) for logistic regression trained with m≥1 examples is always greater than or equal to zero.
    - [x] The sigmoid function g(z)=1/1+e^−z is never greater than one (>1).
    - [ ] For logistic regression, sometimes gradient descent will converge to a local minimum (and fail to find the global minimum).
    - [ ] Linear regression always works well for classification if you classify by using a threshold on the prediction made by linear regression.
