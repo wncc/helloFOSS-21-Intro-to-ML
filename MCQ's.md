@@ -8,37 +8,37 @@ Change the markdown file for submission of the quiz
 
  - Suppose you are working on weather prediction and use a learning algorithm to predict tomorrow's temperature . What kind of problem would that be? 
    - [ ] Classification
-   - [ ] Regression
+   - [x] Regression
  - Suppose that you have trained a logistic regression classifier, and it outputs on a new example x a prediction hθ​ (x) = 0.4. This means (check all that apply):
-   - [ ] Our estimate for P(y = 0| x,θ) = 0.6
-   - [ ] Our estimate for P(y = 1| x,θ) = 0.4
+   - [x] Our estimate for P(y = 0| x,θ) = 0.6
+   - [x] Our estimate for P(y = 1| x,θ) = 0.4
    - [ ] Our estimate for P(y = 1| x,θ) = 0.6
    - [ ] Our estimate for P(y = 0| x,θ) = 0.4
  - Which of the following are reasons for using feature scaling?
-   - [ ]  It speeds up gradient descent by making it require fewer iterations to get to a good solution.
+   - [x] It speeds up gradient descent by making it require fewer iterations to get to a good solution.
    - [ ] It speeds up solving for θ using the normal equation.
    - [ ] It prevents the matrix XTX (used in the normal equation) from being non-invertable (singular/degenerate).
-   - [ ] It is necessary to prevent gradient descent from getting stuck in local optima.
+   - [x] It is necessary to prevent gradient descent from getting stuck in local optima.
  - Which of the following statements are true? Check all that apply.
-   - [ ] The cost function J(θ) for logistic regression trained with m≥1 examples is always greater than or equal to zero.
-   - [ ] The sigmoid function g(z)=1/1+e^−z is never greater than one (>1).
+   - [x] The cost function J(θ) for logistic regression trained with m≥1 examples is always greater than or equal to zero.
+   - [x] The sigmoid function g(z)=1/1+e^−z is never greater than one (>1).
    - [ ] For logistic regression, sometimes gradient descent will converge to a local minimum (and fail to find the global minimum).
    - [ ] Linear regression always works well for classification if you classify by using a threshold on the prediction made by linear regression.
  - KNN algorithm does more computation on test time rather than train time.
-   - [ ] True
+   - [x] True
    - [ ] False
  - Which of the following distance metric can not be used in KNN?
    - [ ] Manhattan
    - [ ] Minkowski
    - [ ] Euclidean
-   - [ ] All of them can be used
+   - [x] All of them can be used
  - Which of the following machine learning algorithm can be used for imputing missing values of both categorical and continuous variables?
-   - [ ] KNN
+   - [x] KNN
    - [ ] Logistic Regression
    - [ ] Linear Regression
  - Suppose, you have given the following data where x and y are the 2 input variables and Class is the dependent variable. You want to predict the class of new data point x=1 and y=1 using eucledian distance in 3-NN. In which class this data point belong to?
    
    ![image](https://user-images.githubusercontent.com/73156496/138315461-b7127e2a-aa76-48bc-9934-53ed4e6d4166.png)
-   - [ ] + class
+   - [x] + class
    - [ ] - class
    - [ ] Can't Say
